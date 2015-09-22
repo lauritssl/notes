@@ -1,0 +1,18 @@
+SOLVE RUBIK's CUBE
+LIST OF ALGORITHMS-
+
+1) Fi U Li Ui
+
+2) Ri Di R D
+
+3) U R Ui Ri Ui Fi U F
+
+4) Ui Li U L U F Ui Fi
+
+5) F R U Ri Ui Fi
+
+6) R U Ri U R U U Ri U
+
+7) U R Ui Li U Ri Ui L
+
+8) Ri Di R D
