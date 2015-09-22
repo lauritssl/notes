@@ -1,3 +1,20 @@
+##General docker commands
+---
+
+Pull image: ```docker pull [image]```
+
+See images: ``docker images``
+
+See containers: ``docker ps -a``
+
+Stop and remove container: ``docker rm -f [container name]``
+
+Attach to running container: ``docker attach [container name]``
+
+Detach container (keeps running): ``ctrl+p ctrl+q``
+
+
+
 ##Mongo DB replicaset on same docker container
 ---
 
