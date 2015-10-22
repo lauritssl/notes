@@ -13,6 +13,8 @@ Attach to running container: ``docker attach [container name]``
 
 Detach container (keeps running): ``ctrl+p ctrl+q``
 
+Logging: ``docker logs -f [container name]``
+
 ##Mongo DB
 To run mongo as a single db that can be linked to the container running the server, use this command:
 
