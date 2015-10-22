@@ -13,6 +13,8 @@ Attach to running container: ``docker attach [container name]``
 
 Detach container (keeps running): ``ctrl+p ctrl+q``
 
+Logging: ``docker logs -f [container name]``
+
 
 
 ##Mongo DB replicaset on same docker container
