@@ -15,6 +15,10 @@ Detach container (keeps running): ``ctrl+p ctrl+q``
 
 Logging: ``docker logs -f [container name]``
 
+Delete all containers: ``docker rm $(docker ps -a -q)``
+
+Delete all images: ``docker rmi $(docker images -q)``
+
 ##Mongo DB
 To run mongo as a single db that can be linked to the container running the server, use this command:
 
